@@ -1,7 +1,6 @@
 import os
-import pandas as pd
-from MaLe.Data_Preparation import load_housing_data, split_train_test, prepare_data
-from MaLe.Model_Training import train_model, evaluate_model
+from MaLe.Unterrichtsblock_1.Data_Preparation import load_housing_data, split_train_test, prepare_data
+from MaLe.Unterrichtsblock_1.Model_Training import train_model, evaluate_model
 
 
 # Dateipfad der CSV-Datei
